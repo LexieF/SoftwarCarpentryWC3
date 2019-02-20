@@ -1,1 +1,1 @@
-This is Week Challenge 3 of Software Carpentry
+This is Weekly Challenge 3 of Software Carpentry
